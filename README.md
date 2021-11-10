@@ -45,8 +45,8 @@ Different sequential parts are combined to form a final, memory-inducing piece. 
 <li>Run the application</li>
 <li>Make sure the screen is active and press the ‘s’ button to start the experience</li>
 
-<li>  <li>  LEFT and RIGHT arrows on the keyboard represent the respective Triggers</li>
-UP and DOWN arrows control the left-controller-height, or pitch, for the Bells phase</li>
+<li>   LEFT and RIGHT arrows on the keyboard represent the respective Triggers</li>
+<li>UP and DOWN arrows control the left-controller-height, or pitch, for the Bells phase</li>
 <li>‘d’ and ‘b’ keys represent the final choice for instrument infini-play</li>
 <li>Move the mouse over the four corners to simulate up-and-down controller movement</li>
   </ul>
