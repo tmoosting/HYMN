@@ -7,12 +7,12 @@ Different sequential parts are combined to form a final, memory-inducing piece. 
 
 ### Requirements
 <ul>
-  <li>Max/MSP</li>
+  <li>[Max/MSP](https://cycling74.com/)</li>
   <ul>
     <li>Package: VR</li>
     <li>Package: PeRColate</li>
   </ul>
-  <li>Processing</li>
+  <li>[Processing](https://processing.org/)</li>
   <ul>
     <li>Package: OSCP5</li> 
   </ul>
@@ -57,3 +57,6 @@ Different sequential parts are combined to form a final, memory-inducing piece. 
   
 </ul>
 
+
+
+<sub>In collaboration with [Freek van Heerikhuize](https://github.com/Free-k)</sub>
