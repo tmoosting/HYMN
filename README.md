@@ -44,6 +44,7 @@ Different sequential parts are combined to form a final, memory-inducing piece. 
 <li>Change line 11, ‘usingComputerControls’, to true </li>
 <li>Run the application</li>
 <li>Make sure the screen is active and press the ‘s’ button to start the experience</li>
+  <li> Use this alternative set of controls:</li>
 <ul>
 <li>   LEFT and RIGHT arrows on the keyboard represent the respective Triggers</li>
 <li>UP and DOWN arrows control the left-controller-height, or pitch, for the Bells phase</li>
